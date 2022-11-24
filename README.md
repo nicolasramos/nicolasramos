@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolás Ramos</h1>
 <h3 align="center">Ingeniero de software, adicto a la forma de vida dependiente de la cafeína y amante de OpenSource</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasramos" alt="nicolasramos" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/nicolasramos_es" target="blank"><img src="https://img.shields.io/twitter/follow/nicolasramos_es?logo=twitter&style=for-the-badge" alt="nicolasramos_es" /></a> </p>
 
 - 🔭 I’m currently working on **Autónomo**
@@ -15,8 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/nicolas_ramos_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nicolas_ramos_es" height="30" width="40" /></a>
 <a href="https://twitter.com/nicolasramos_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicolasramos_es" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolasramoses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasramoses" height="30" width="40" /></a>
+<a href="https://fb.com/nramos.es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nramos.es" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasramos&show_icons=true&locale=en&layout=compact" alt="nicolasramos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasramos&show_icons=true&locale=en" alt="nicolasramos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasramos&" alt="nicolasramos" /></p>
+
